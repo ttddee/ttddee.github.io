@@ -100,6 +100,6 @@ Next click on **Generate** and then on **Open Project** to open the Visual Studi
 
 In Visual Studio change the solution configuration at the top from **Debug** to **Release**. Right-click the solution and select **Build**.
 
-After the build has completed you can find your files under **c:\oiio** in the directories **bin**, **include** and **lib**.
+After the build has completed you can find your files under **c:\oiio\build** in the directories **bin**, **include** and **lib**.
 
 
