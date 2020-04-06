@@ -85,10 +85,9 @@ Create a new folder called **build** in **c:\oiio** and set it as output directo
 
 When you hit **Configure** you can specify a generator. We will use **Visual Studio 16 2019**.
 
-Now we can set the variables that we need. Since we are doing a minimal build of only the C++ library we will use the following settings:
+Now we can set the variables that we need. Since we are doing a minimal build of only the C++ library we will use the following setting:
 
 ```
-OIIO_BUILD_TOOLS = false
 USE_PYTHON = false
 ```
 Note: If you don't have Python installed you need to set **USE_PYTHON = false**, otherwise the configuration will fail.
