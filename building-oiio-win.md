@@ -30,7 +30,7 @@ Now you can search and install packages like this:
 
 > .\vcpkg install packagename
 ```
-Pleas note that vcpkg defaults to 32 bit packages. So if you want the 64 bit version you need to do:
+Please note that vcpkg defaults to 32 bit packages. So if you want the 64 bit version you need to do:
 ```
 > .\vcpkg install packagename:x64-windows
 ```
